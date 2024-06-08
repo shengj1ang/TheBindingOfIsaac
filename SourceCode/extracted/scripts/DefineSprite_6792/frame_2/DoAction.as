@@ -1,0 +1,10 @@
+if(_root.locker[4])
+{
+   f1.gotoAndStop(2);
+}
+else
+{
+   f1.gotoAndStop(1);
+}
+f2.gotoAndStop(_root.chaps);
+f1.d.gotoAndStop(_root.chaps);
